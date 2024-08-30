@@ -7,3 +7,4 @@ lemon
 pears
 melon
 blueberry
+apples
