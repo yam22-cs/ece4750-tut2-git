@@ -1,3 +1,4 @@
 sphere
 cube
 circle
+triangle
