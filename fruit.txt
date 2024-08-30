@@ -4,3 +4,4 @@ oranges
 banana
 peaches
 lemon
+pears
